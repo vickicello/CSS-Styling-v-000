@@ -42,3 +42,8 @@ figcaption {
 #logo h2 {
   font-family: 'Elsie Swatch Caps', cursive;
 }
+
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
