@@ -34,3 +34,11 @@ figcaption {
 #logo {
   background-color: aqua;
 }
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Elsie Swatch Caps', cursive;
+}
